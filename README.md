@@ -10,7 +10,7 @@ Countdown timer which calculates the time to the start of the new year
 
 ## Live view
 
-You can check the application in this [link](https://pawel-galkowski.github.io/NewYear-Countdown-Timer/)
+You can check the application in this [link](https://newyear-countdown-timer.herokuapp.com/)
 
 ## Available Scripts
 
